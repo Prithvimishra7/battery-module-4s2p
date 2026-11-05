@@ -1,42 +1,86 @@
-4S2P 18650 Battery Module with BMS and Vented Enclosure
-A professional, modular 4S2P 18650 Lithium-ion Battery Pack designed in Autodesk Fusion. This repository contains the complete CAD assembly, mechanical enclosures, electrical nickel strip layouts, and full manufacturing documentation package suitable for robotics and portable power applications.
+# 4S2P 18650 Battery Module – Fusion 360 CAD Design
 
-🚀 Project Overview
-This project was engineered to provide a robust, safe, and easily serviceable power source. It features a modular multi-tier assembly integrating custom cell holders, spot-welded nickel interconnects, a dedicated Battery Management System (BMS) mounting board, and a custom top lid with integrated thermal cooling vents.
+A modular 18650 battery pack enclosure designed in **Autodesk Fusion 360**. This project focuses on 3D part modelling, assembly design, mechanical fit checking, rendering and engineering documentation.
 
-Key Specifications
-Configuration: 4S2P (4 Series, 2 Parallel)
+## Final Render
 
-Cell Type: Standard 18650 Lithium-ion cylindrical cells
+![4S2P Battery Module Render](images/render.png)
 
-Nominal Voltage: 14.8V (16.8V fully charged)
+## Project Overview
 
-CAD Package: Autodesk Fusion (Parametric Design)
+- **Battery configuration:** 4S2P
+- **Cell count:** 8 × 18650 cells
+- **Nominal voltage:** 14.8 V
+- **CAD software:** Autodesk Fusion 360
+- **Project type:** Mechanical design and assembly
 
-Standard: ISO-compliant 2D technical drawings
+## Design Features
 
-📂 Repository Structure
-Plaintext
-├── CAD/
-│   ├── Assembly/           # Main master assembly files (Fusion archive / STEP)
-│   └── Components/         # Individual parts (Cell holders, vented lid, BMS plate)
-├── Documentation/
-│   └── BatteryModule_4S2P_drawing.pdf  # ISO-standard 2D engineering drawing package
-├── Renders/                # High-resolution photorealistic marketing renders
-└── Animations/             # Exploded assembly MP4 preview video for presentations
-🛠️ Key Components Included
-Vented Lid: Custom 3D-printable enclosure lid featuring vertical thermal exhaust slots.
+- Custom cell holders with individual cell pockets.
+- Nickel busbar components represented in the assembly.
+- Dedicated BMS mounting plate and standoffs.
+- Vented protective enclosure with a transparent lid.
+- Assembly designed using Fusion 360 joints.
+- Interference and section analysis for mechanical inspection.
 
-18650 Cell Holders: Secure dual-tier structural matrices maintaining optimal cell spacing and vibration dampening.
+## Design Challenges & Improvements
 
-BMS Mounting Plate: Dedicated isolation plate securing the Battery Management System board above the cell stack.
+| Challenge | Design improvement |
+|---|---|
+| Cells not sitting correctly in holders | Adjusted component positioning |
+| Cell and holder floor overlap | Corrected joint offsets |
+| Bolt and busbar clearance | Improved mechanical clearance |
+| Lid interference with the assembly | Corrected shell feature selection |
 
-Nickel Strips & Interconnects: Series and parallel spot-welding configurations.
+## Project Deliverables
 
-🖼️ Visual Assets & Documentation
-Exploded View Animation: Showcases the internal layering, component hierarchy, and assembly breakdown (BatteryModule_exploded.mp4).
+### 1. Final Render
 
-Engineering Drawings: Complete A3 drawing sheet (BatteryModule_4S2P_drawing.pdf) complete with orthographic projections (Front, Top, Side, Isometric), a Bill of Materials (BOM) parts list, balloon callouts, and overall bounding dimensions.
+![Final Render](images/render.png)
 
-📜 License
-Distributed under the MIT License. See LICENSE for more information.
+A rendered view showing the overall battery module design and enclosure.
+
+### 2. Engineering Drawing
+
+[View / Download Assembly Drawing (PDF)](drawing/BatteryModule_4S2P_drawing.pdf)
+
+Includes the assembly drawing, dimensions and parts list.
+
+### 3. Exploded View Animation
+
+[Watch Exploded Assembly Animation (MP4)](video/BatteryModule_exploded.mp4)
+
+Shows the individual components and their arrangement within the assembly.
+
+## Skills Demonstrated
+
+- Autodesk Fusion 360
+- 3D Part Modelling
+- Mechanical Assembly Design
+- Component Joints
+- Section Analysis
+- Interference Inspection
+- Product Rendering
+- Exploded View Animation
+- Engineering Drawings
+
+## Portfolio Series
+
+**Project 1 of 5 – CAD & Robotics Portfolio**
+
+Upcoming projects:
+1. 4S2P 18650 Battery Module
+2. Parallel-Jaw Robotic Gripper
+3. 3-DOF Robotic Arm
+4. ROS 2 Robotic Simulation
+5. Autonomous Robotics Project
+
+## Author
+
+**Prithvi Mishra**  
+Robotics & Artificial Intelligence Engineering Student  
+November 2026
+
+---
+
+*Note: This repository presents the CAD design and visual documentation. It does not include the editable Fusion 360 assembly or certify the electrical safety of a physical battery pack. The design should undergo appropriate electrical, thermal and mechanical safety validation before any real-world implementation.*
