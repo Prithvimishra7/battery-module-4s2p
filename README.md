@@ -32,19 +32,19 @@ A modular 18650 battery pack enclosure designed in **Autodesk Fusion 360**. This
 
 ### 1. Final Render
 
-![Final Render](images/render.png)
+
 
 A rendered view showing the overall battery module design and enclosure.
 
 ### 2. Engineering Drawing
 
-[View / Download Assembly Drawing (PDF)](drawing/BatteryModule_4S2P_drawing.pdf)
+
 
 Includes the assembly drawing, dimensions and parts list.
 
 ### 3. Exploded View Animation
 
-[Watch Exploded Assembly Animation (MP4)](video/BatteryModule_exploded.mp4)
+
 
 Shows the individual components and their arrangement within the assembly.
 
