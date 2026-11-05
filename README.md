@@ -2,10 +2,6 @@
 
 A modular 18650 battery pack enclosure designed in **Autodesk Fusion 360**. This project focuses on 3D part modelling, assembly design, mechanical fit checking, rendering and engineering documentation.
 
-## Final Render
-
-![4S2P Battery Module Render](images/render.png)
-
 ## Project Overview
 
 - **Battery configuration:** 4S2P
