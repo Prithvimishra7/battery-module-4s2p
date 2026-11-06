@@ -2,7 +2,7 @@
 
 An EV-style battery module designed using **Autodesk Fusion 360**. The design features eight 18650 cells in a 4S2P configuration, with custom cell holders, nickel busbars, a BMS mounting system and a vented enclosure.
 
-## Project Preview
+## Project 1  Preview
 
 ![4S2P Battery Module Final Render](https://github.com/Prithvimishra7/fusion-cad-portfolio/blob/main/01-battery-module-4s2p/render.png)
 
