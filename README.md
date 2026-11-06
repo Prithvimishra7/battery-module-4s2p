@@ -4,7 +4,7 @@ An EV-style battery module designed using **Autodesk Fusion 360**. The design fe
 
 ## Project Preview
 
-![4S2P Battery Module Final Render](render.png)
+![4S2P Battery Module Final Render](https://github.com/Prithvimishra7/fusion-cad-portfolio/blob/main/01-battery-module-4s2p/render.png)
 
 ## Key Features
 
@@ -41,10 +41,10 @@ The design uses four parallel cell groups connected in a series arrangement. Cel
 | File | Description |
 |---|---|
 | [Final Render](https://github.com/Prithvimishra7/fusion-cad-portfolio/blob/main/01-battery-module-4s2p/render.png) | Photorealistic project render |
-| [Assembly Drawing](BatteryModule_4S2P_drawing.pdf) | ISO A3 assembly drawing with parts list |
-| [Exploded View Animation](BatteryModule_exploded.mp4) | Exploded assembly animation |
-| [Fusion Archive](BatteryModule_4S2P.f3z) | Editable Autodesk Fusion project |
-| [STEP Model](BatteryModule_4S2P.step) | CAD model for use in other CAD software |
+| [Assembly Drawing](https://github.com/Prithvimishra7/fusion-cad-portfolio/blob/main/01-battery-module-4s2p/BatteryModule_4S2P_drawing.pdf) | ISO A3 assembly drawing with parts list |
+| [Exploded View Animation](https://github.com/Prithvimishra7/fusion-cad-portfolio/blob/main/01-battery-module-4s2p/BatteryModule_exploded.mp4) | Exploded assembly animation |
+| [Fusion Archive](https://github.com/Prithvimishra7/fusion-cad-portfolio/blob/main/01-battery-module-4s2p/BatteryModule_4S2P.f3z) | Editable Autodesk Fusion project |
+| [STEP Model](https://github.com/Prithvimishra7/fusion-cad-portfolio/blob/main/01-battery-module-4s2p/BatteryModule_4S2P.step) | CAD model for use in other CAD software |
 
 **Drawing Reference:** PM-BAT-001  
 **Revision:** A
